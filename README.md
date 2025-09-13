@@ -66,5 +66,11 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1283" height="736" alt="image" src="https://github.com/user-attachments/assets/f0143f5d-1cc7-4016-88ce-61e8dae90d6c" />
+
 ## Output
+<img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/c30aefb3-f36a-4768-afc2-b7f822d97767" />
+
+
 ## Result
+ Thus the Experiment to simulate a Full Wave Rectifier controlled by a thyristor by using Matlab software has been done successfully.
